@@ -21,7 +21,7 @@
 
 2. jsp 파일을 만든다.
 3. 컨트롤러 클래스를 만든다.(인터페이스를 상속받아서 제작)
-4. 요청 매핑을 한다.
+4. 요청 매핑을 한다. ( /src/main/java/com/githrd/jennie/resources/blp.properties 에 작성 )
 5. 요청 처리 코딩을 한다.
 
 의 순서로 진행하면 된다.
