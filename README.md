@@ -8,10 +8,10 @@
 1. 요청설계를 한다.
 <pre>
     [ 요청 설계 형식 ]
-      요청내용 : /blackpink/member/login.blp
+      요청내용 : /whistle/member/login.blp
       파라미터 : 무
       컨트롤러 : com.blackpink.jennie.controller.Login
-      뷰     : /WEB-INF/views/member/loign.jsp
+      뷰     : /WEB-INF/views/member/login.jsp
 </pre>
       
       의 형식으로 각 기능마다 먼저 요청 설계를 하고 진행해야하고
