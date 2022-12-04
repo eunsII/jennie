@@ -1,4 +1,5 @@
 # jennie
+<img src="https://github.com/eunsII/jennie/blob/main/doc/main.png?raw=true" width="500px" height="auto">
 
 <h3>Dispatch Servlet 클래스 구현해서 다이나믹 웹을 구현하는 방법</h3>
 
@@ -15,6 +16,7 @@
       
       의 형식으로 각 기능마다 먼저 요청 설계를 하고 진행해야하고
       엑셀이나 메모장에 작성해서 작업을 진행하는 것이 좋습니다.
+      doc폴더의 <span style="color: red;">jennie 요청설계</span> 파일 참고
 
 2. jsp 파일을 만든다.
 3. 컨트롤러 클래스를 만든다.(인터페이스를 상속받아서 제작)
