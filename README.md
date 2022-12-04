@@ -11,10 +11,11 @@
       파라미터 : 무
       컨트롤러 : com.blackpink.jennie.controller.Login
       뷰     : /WEB-INF/views/member/loign.jsp
+</pre>
       
       의 형식으로 각 기능마다 먼저 요청 설계를 하고 진행해야하고
       엑셀이나 메모장에 작성해서 작업을 진행하는 것이 좋습니다.
-</pre>
+
 2. jsp 파일을 만든다.
 3. 컨트롤러 클래스를 만든다.(인터페이스를 상속받아서 제작)
 4. 요청 매핑을 한다.
